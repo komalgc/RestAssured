@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-08T12:32:31Z" name="All Test Suite" finished-at="2020-06-08T12:36:30Z" duration-ms="239205">
+    <groups>
+    </groups>
+    <test started-at="2020-06-08T12:32:31Z" name="C:/RestAssured" finished-at="2020-06-08T12:36:30Z" duration-ms="239205">
+      <class name="com.causeway.api.PlannedJobsDB.PlannedJobsDB">
+        <test-method is-config="true" signature="getData()[pri:0, instance:com.causeway.api.PlannedJobsDB.PlannedJobsDB@28eaa59a]" started-at="2020-06-08T12:32:31Z" name="getData" finished-at="2020-06-08T12:32:31Z" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method is-config="true" signature="getData()[pri:0, instance:com.causeway.api.ReactiveJobsDB.ReactiveJobsDB@3427b02d]" started-at="2020-06-08T12:32:31Z" name="getData" finished-at="2020-06-08T12:32:31Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="Test2()[pri:0, instance:com.causeway.api.PlannedJobsDB.PlannedJobsDB@28eaa59a]" started-at="2020-06-08T12:32:31Z" name="Test2" finished-at="2020-06-08T12:32:48Z" duration-ms="17038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- com.causeway.api.PlannedJobsDB.PlannedJobsDB -->
+      <class name="com.causeway.api.ReactiveJobsDB.ReactiveJobsDB">
+        <test-method signature="Test1()[pri:0, instance:com.causeway.api.ReactiveJobsDB.ReactiveJobsDB@3427b02d]" started-at="2020-06-08T12:32:48Z" name="Test1" finished-at="2020-06-08T12:36:30Z" duration-ms="221847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.causeway.api.ReactiveJobsDB.ReactiveJobsDB -->
+    </test> <!-- C:/RestAssured -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
